@@ -19,10 +19,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94711421243']
-global.premium = ['94711421243']
+global.owner = ['94728408009']
+global.premium = ['94728408009']
 global.ownernomer = '94711421243'
-global.ownername = 'Dark Alpha'
+global.ownername = 'Kaweesha Dilshan'
 global.botname = 'BIXBY-MD USER BOT'
 global.footer = ' Qᴜᴇᴇɴ ʙɪxʙʏ ᴘᴜʙʟɪᴄ ᴇᴅɪᴛɪᴏɴ.'
 global.ig = 'https://github.com/darkalphaxteam'
